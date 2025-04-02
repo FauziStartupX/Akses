@@ -1,51 +1,5 @@
-[
-  {
-    "Owner": "6285211997125",
-    "NomorBot": "6285211997125",
-    "Access": true,
-    "Email": "fauzialifatah@gmail.com",
-    "Key": "fauzi321"
-  },
-  {
-    "Owner": "6282132710183",
-    "NomorBot": "6282132710183",
-    "Access": true,
-    "Email": "fauzialifatah@gmail.com",
-    "Key": "fauzi1"
-  },
-  {
-    "Owner": "6282111874504",
-    "NomorBot": "6283137563076",
-    "Access": true,
-    "Email": "babaybay48@gmail.com",
-    "Key": "Thezy8277"
-  },
-  {
-    "Owner": "083822021601",
-    "NomorBot": "087859171122",
-    "Access": true,
-    "Email": "latesturltech@gmail.com",
-    "Key": "Thezy2379"
-  },
-  {
-    "Owner": "6285184445148",
-    "NomorBot": "6285184445148",
-    "Access": true,
-    "Email": "sayafoxzy1345@gmail.com",
-    "Key": "Thezy4532"
-  },
-  {
-    "Owner": "6283125380395",
-    "NomorBot": "6283125380395",
-    "Access": true,
-    "Email": "wikamahyzia@gmail.com",
-    "Key": "Thezy3027"
-  },
-  {
-    "Owner": "6283843893831",
-    "NomorBot": "6283843893831",
-    "Access": true,
-    "Email": "buyer@gmail.com",
-    "Key": "Thezy5059"
-  }
-]
+{
+  "allowed_ips": [
+    "213.210.21.144"
+  ]
+}
