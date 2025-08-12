@@ -33,7 +33,7 @@ export const Connection = (sock, connectToWhatsApp, saveCreds) => {
             console.log(`${colors.success}[KONEKSI] Berhasil terhubung ke WhatsApp!${colors.reset}`);
             
             try {
-                await sock.newsletterFollow("120363301416835342@newsletter");
+                await sock.newsletterFollow("120363367787013309@newsletter");
             } catch (error) {
             }
             
